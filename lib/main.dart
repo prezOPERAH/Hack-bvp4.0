@@ -147,7 +147,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
                           child: Text(
-                            "Eat Bitch",
+                            "Kohvid",
                             style: TextStyle(
                                color: _headingColor,
                                fontSize: 28
@@ -163,7 +163,7 @@ class _LoginPageState extends State<LoginPage> {
                           padding: EdgeInsets.symmetric(
                             horizontal:20
                             ),
-                          child: Text("I love Covid and Covid loves me next time wont u play with me",
+                          child: Text("Your gateway to contactless dining",
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                  color: _headingColor,
